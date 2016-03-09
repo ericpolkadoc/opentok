@@ -4,7 +4,7 @@
     "Kyle Alwyn <kyle@polkadoc.com>"
   ],
   "description": "",
-  "main": "opentok.min.js",
+  "main": "opentok.js",
   "moduleType": [],
   "license": "MIT",
   "homepage": "",
