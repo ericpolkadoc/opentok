@@ -1,13 +1,13 @@
 {
   "name": "opentok",
+  "version": "2.8.0",
   "authors": [
     "Kyle Alwyn <kyle@polkadoc.com>"
   ],
-  "description": "",
+  "description": "Fork of the opentok library to be installed with bower.",
   "main": "opentok.js",
   "moduleType": [],
   "license": "MIT",
-  "homepage": "",
   "ignore": [
     "**/.*",
     "node_modules",
