@@ -1,8 +1,8 @@
 {
   "name": "opentok-bower.js",
-  "version": "2.8.0",
+  "version": "2.10.2",
   "authors": [
-    "Kyle Alwyn <kyle@polkadoc.com>"
+    "Tracy Burge <tracy@lemonaid.com>"
   ],
   "description": "Fork of the opentok library to be installed with bower.",
   "main": "opentok.js",
